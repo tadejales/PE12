@@ -6,7 +6,7 @@ def dividors(number): #deljitelji števila
             if len(devidors_list) > 5:
                 return devidors_list
 
-    return False
+    return True
 
     curent_number_list = []
     curent_number = 0
